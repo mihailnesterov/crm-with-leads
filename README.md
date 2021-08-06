@@ -1,3 +1,5 @@
-# softline-crm-manager-module
-CRM system frontend prototype. Sales manager module. 
-React/Redux/TypeScript/Material-UI/dx-react-chart/dx-react-grid/dx-react-scheduler/SnackbarProvider
+# CRM system frontend prototype 
+# Modules
+Sales manager module. Dashboard, Tasks (Kanban), Clients, Contacts, Leads, Calendar. 
+# Frontend
+React/React-router//Redux/TypeScript/Material-UI/dx-react-chart/dx-react-grid/dx-react-scheduler
